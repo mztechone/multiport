@@ -1,6 +1,6 @@
 # ==================================================
 #wget https://github.com/${GitUser}/
-GitUser="MZTechTV"
+GitUser="mztechone"
 
 # // initializing var
 export DEBIAN_FRONTEND=noninteractive

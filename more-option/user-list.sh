@@ -1,6 +1,6 @@
 # Created by MZTechTV
 #wget https://github.com/${GitUser}/
-GitUser="MZTechTV"
+GitUser="mztechone"
 #IZIN SCRIPT
 MYIP=$(curl -sS ipv4.icanhazip.com)
 echo -e "\e[32mloading...\e[0m"
